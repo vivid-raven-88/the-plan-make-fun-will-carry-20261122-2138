@@ -12,6 +12,6 @@ A program that writes one text to `/output/entry.txt`: a concrete plan an AI age
 
 ## The plan in one line
 
-Sell $49 "landing page in 24 hours" gigs to small businesses found on Google Maps with no website, at $49 per job rising to $79, reaching about $700 by day 30.
+Sell $49 "landing page in 24h" gigs on Fiverr to firms running Google Ads but with no website — proven spenders; at 2% reply and 1-in-4 close, about 7 jobs ≈ $340 by day 30.
 
 Bounty: https://make.fun/bounty/the-plan-make-fun-will-carry-20261122-2138
